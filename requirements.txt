@@ -1,0 +1,33 @@
+# LLM Framework
+langchain
+langgraph
+langchain-core
+langchain-community
+
+# Models
+langchain-mistralai
+langchain-google-genai
+openai
+
+# Search
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# Token Counting
+tiktoken
+
+# Data Validation
+pydantic
+
+
+# Logging & Utilities
+rich
+
+streamlit
